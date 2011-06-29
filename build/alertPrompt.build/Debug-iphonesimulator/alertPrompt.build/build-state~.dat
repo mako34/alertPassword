@@ -1,0 +1,260 @@
+TalertPrompt
+v7
+r0
+t325511584.968922
+cCheck dependencies
+cProcessInfoPlistFile /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/Info.plist alertPrompt-Info.plist
+cCompileXIB /Users/mk/Documents/iPad/alertPrompt/MainWindow.xib
+cCompileXIB /Users/mk/Documents/iPad/alertPrompt/alertPromptViewController.xib
+cProcessPCH /var/folders/Sg/Sg92oC4VFbKdVh6x7SqZTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertPrompt_Prefix-eudmichpuogvyahkxhvvluombazg/alertPrompt_Prefix.pch.gch alertPrompt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/main.o /Users/mk/Documents/iPad/alertPrompt/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptAppDelegate.o /Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptViewController.o /Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt normal i386
+cGenerateDSYMFile /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app.dSYM /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt
+cTouch /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptAppDelegate.h
+c000000004DB6B13000000000000001F0
+t1303818544
+s496
+i<UIKit/UIKit.h>
+
+N/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptAppDelegate.m
+c000000004DB6B13000000000000007C1
+t1303818544
+s1985
+i"alertPromptAppDelegate.h"
+i"alertPromptViewController.h"
+
+N/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.h
+c000000004DB6B2160000000000000164
+t1303818774
+s356
+i<UIKit/UIKit.h>
+
+N/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m
+c000000004DB6B1300000000000000561
+t1303818544
+s1377
+i"alertPromptViewController.h"
+
+N/Users/mk/Documents/iPad/alertPrompt/MainWindow.xib
+c000000004DB6B1300000000000004D31
+t1303818544
+s19761
+
+N/Users/mk/Documents/iPad/alertPrompt/alertPromptViewController.xib
+c000000004DB6B19F0000000000004B38
+t1303818655
+s19256
+
+N/Users/mk/Documents/iPad/alertPrompt/alertPrompt_Prefix.pch
+c000000004DB6B13000000000000000BF
+t1303818544
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app
+t1303818784
+s238
+
+N/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app.dSYM
+t1303818784
+s102
+
+N/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/Info.plist
+t1303818774
+s814
+
+N/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/MainWindow.nib
+t1303818777
+s1131
+
+N/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/PkgInfo
+t1303818774
+s8
+
+N/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt
+t1303818784
+s17224
+
+N/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPromptViewController.nib
+t1303818777
+s1679
+
+N/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPrompt.LinkFileList
+c000000004DB6B21600000000000001A7
+t1303818774
+s423
+
+N/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptAppDelegate.o
+t1303818783
+s50344
+
+N/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptViewController.o
+t1303818784
+s40476
+
+N/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/main.o
+t1303818783
+s6300
+
+N/Users/mk/Documents/iPad/alertPrompt/main.m
+c000000004DB6B1300000000000000166
+t1303818544
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/Sg/Sg92oC4VFbKdVh6x7SqZTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertPrompt_Prefix-eudmichpuogvyahkxhvvluombazg/alertPrompt_Prefix.pch.gch
+t1303818783
+s15453392
+
+NalertPrompt-Info.plist
+c000000004DB6B13000000000000004D6
+t1303818544
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325511574#325511574#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptAppDelegate.o /Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325511583.868050
+e325511583.957619
+r1
+xCompileC
+xbuild/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptAppDelegate.o
+x/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptAppDelegate.m325511583#325511583#0(0"0(0#0#69"/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptAppDelegate.m8612767392#2016"    cd /Users/mk/Documents/iPad/alertPrompt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-generated-files.hmap -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-own-target-headers.hmap -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-all-target-headers.hmap -iquote /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-project-headers.hmap -F/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator -I/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/include -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/DerivedSources/i386 -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/DerivedSources -include /var/folders/Sg/Sg92oC4VFbKdVh6x7SqZTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertPrompt_Prefix-eudmichpuogvyahkxhvvluombazg/alertPrompt_Prefix.pch -c /Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptAppDelegate.m -o /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptAppDelegate.o0#
+
+CCompileC build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptViewController.o /Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325511583.957740
+e325511584.060362
+r1
+xCompileC
+xbuild/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptViewController.o
+x/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m:62: warning: property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m:62: warning: property 'label' requires the method 'setLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m:62: warning: incomplete implementation of class 'alertPromptViewController'
+o/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m:62: warning: method definition for '-boton' not found
+lSLF07#2@80"Compile /Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m325511583#325511584#0(693"/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m:62: warning: property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m:62: warning: property 'label' requires the method 'setLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m:62: warning: incomplete implementation of class 'alertPromptViewController'/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m:62: warning: method definition for '-boton' not found4(22@118"Property 'label' requires method '-label' to be defined - use @synthesize, @dynamic or provide a method implementation325511584#0#205#0(6@72"/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m325511344#62#0#62#0#0"0(22@125"Property 'label' requires the method 'setLabel:' to be defined - use @synthesize, @dynamic or provide a method implementation325511584#205#212#0(6@72"/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m325511344#62#0#62#0#0"0(22@62"Incomplete implementation of class 'alertPromptViewController'325511584#417#149#0(6@72"/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m325511344#62#0#62#0#38"incomplete implementation of class '*'0(22@40"Method definition for '-boton' not found325511584#566#127#0(6@72"/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m325511344#62#0#62#0#35"method definition for '*' not found0(0#0#72"/Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m8616583200#2022"    cd /Users/mk/Documents/iPad/alertPrompt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-generated-files.hmap -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-own-target-headers.hmap -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-all-target-headers.hmap -iquote /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-project-headers.hmap -F/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator -I/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/include -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/DerivedSources/i386 -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/DerivedSources -include /var/folders/Sg/Sg92oC4VFbKdVh6x7SqZTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertPrompt_Prefix-eudmichpuogvyahkxhvvluombazg/alertPrompt_Prefix.pch -c /Users/mk/Documents/iPad/alertPrompt/Classes/alertPromptViewController.m -o /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPromptViewController.o0#
+
+CCompileC build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/main.o /Users/mk/Documents/iPad/alertPrompt/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325511583.561463
+e325511583.867935
+r1
+xCompileC
+xbuild/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/main.o
+x/Users/mk/Documents/iPad/alertPrompt/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/mk/Documents/iPad/alertPrompt/main.m325511583#325511583#0(0"0(0#0#43"/Users/mk/Documents/iPad/alertPrompt/main.m8613483008#1972"    cd /Users/mk/Documents/iPad/alertPrompt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-generated-files.hmap -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-own-target-headers.hmap -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-all-target-headers.hmap -iquote /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-project-headers.hmap -F/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator -I/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/include -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/DerivedSources/i386 -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/DerivedSources -include /var/folders/Sg/Sg92oC4VFbKdVh6x7SqZTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertPrompt_Prefix-eudmichpuogvyahkxhvvluombazg/alertPrompt_Prefix.pch -c /Users/mk/Documents/iPad/alertPrompt/main.m -o /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mk/Documents/iPad/alertPrompt/MainWindow.xib
+s325511574.945689
+e325511577.080479
+r1
+xCompileXIB
+x/Users/mk/Documents/iPad/alertPrompt/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325511574#325511580#0(0"0(0#0#51"/Users/mk/Documents/iPad/alertPrompt/MainWindow.xib8613544384#568"    cd /Users/mk/Documents/iPad/alertPrompt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/MainWindow.nib /Users/mk/Documents/iPad/alertPrompt/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mk/Documents/iPad/alertPrompt/alertPromptViewController.xib
+s325511574.971903
+e325511577.091239
+r1
+xCompileXIB
+x/Users/mk/Documents/iPad/alertPrompt/alertPromptViewController.xib
+lSLF07#2@40"CompileXIB alertPromptViewController.xib325511574#325511580#0(0"0(0#0#66"/Users/mk/Documents/iPad/alertPrompt/alertPromptViewController.xib8614673088#598"    cd /Users/mk/Documents/iPad/alertPrompt    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPromptViewController.nib /Users/mk/Documents/iPad/alertPrompt/alertPromptViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app.dSYM /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt
+s325511584.574871
+e325511584.899859
+r1
+xGenerateDSYMFile
+x/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app.dSYM
+x/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/alertPrompt.app.dSYM build/Debug-iphonesimulator/alertPrompt.app/alertPrompt325511584#325511584#0(0"0(0#0#92"/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt8614626304#389"    cd /Users/mk/Documents/iPad/alertPrompt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt -o /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app.dSYM0#
+
+CLd /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt normal i386
+s325511584.060460
+e325511584.574745
+r1
+xLd
+x/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt
+xnormal
+xi386
+lSLF07#2@97"Link /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt325511584#325511584#0(0"0(0#0#0"8616797024#910"    cd /Users/mk/Documents/iPad/alertPrompt    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator -F/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator -filelist /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/Objects-normal/i386/alertPrompt.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/alertPrompt0#
+
+CProcessInfoPlistFile /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/Info.plist alertPrompt-Info.plist
+s325511574.848050
+e325511574.945585
+r1
+xProcessInfoPlistFile
+x/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/Info.plist
+xalertPrompt-Info.plist
+lSLF07#2@30"Process alertPrompt-Info.plist325511574#325511574#0(0"0(0#0#59"/Users/mk/Documents/iPad/alertPrompt/alertPrompt-Info.plist28429445101453416#485"    cd /Users/mk/Documents/iPad/alertPrompt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility alertPrompt-Info.plist -genpkginfo /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app/Info.plist0#
+
+CProcessPCH /var/folders/Sg/Sg92oC4VFbKdVh6x7SqZTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertPrompt_Prefix-eudmichpuogvyahkxhvvluombazg/alertPrompt_Prefix.pch.gch alertPrompt_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325511577.091384
+e325511583.561265
+r1
+xProcessPCH
+x/var/folders/Sg/Sg92oC4VFbKdVh6x7SqZTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertPrompt_Prefix-eudmichpuogvyahkxhvvluombazg/alertPrompt_Prefix.pch.gch
+xalertPrompt_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile alertPrompt_Prefix.pch325511577#325511583#0(0"0(0#0#59"/Users/mk/Documents/iPad/alertPrompt/alertPrompt_Prefix.pch8614517632#1862"    cd /Users/mk/Documents/iPad/alertPrompt    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-generated-files.hmap -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-own-target-headers.hmap -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-all-target-headers.hmap -iquote /Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/alertPrompt-project-headers.hmap -F/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator -I/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/include -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/DerivedSources/i386 -I/Users/mk/Documents/iPad/alertPrompt/build/alertPrompt.build/Debug-iphonesimulator/alertPrompt.build/DerivedSources -c /Users/mk/Documents/iPad/alertPrompt/alertPrompt_Prefix.pch -o /var/folders/Sg/Sg92oC4VFbKdVh6x7SqZTU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/alertPrompt_Prefix-eudmichpuogvyahkxhvvluombazg/alertPrompt_Prefix.pch.gch0#
+
+CTouch /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app
+s325511584.899965
+e325511584.968858
+r1
+xTouch
+x/Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app
+lSLF07#2@86"Touch /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app325511584#325511584#0(0"0(0#0#0"8617472320#278"    cd /Users/mk/Documents/iPad/alertPrompt    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mk/Documents/iPad/alertPrompt/build/Debug-iphonesimulator/alertPrompt.app0#
+
